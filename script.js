@@ -8,9 +8,7 @@ $(document).ready(function() {
       scrollTop: $(href).offset().top
     }, 2000, function() {
       document.location.hash = href;
-      $this;
     });
-    $this;
   });
 
   $('#go-to-top').click(
