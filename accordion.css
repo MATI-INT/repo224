@@ -1,0 +1,8 @@
+.accordion p {
+  display: none;
+  margin-top: 0;
+}
+
+.accordion h2 {
+  margin-bottom: 0;
+}

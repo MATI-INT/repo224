@@ -1,0 +1,16 @@
+#menu {
+  width: 25%;
+  border: 1px solid black;
+  float: right;
+}
+
+#content {
+  width: 70%;
+  border: 1px solid black;
+  float: left;
+}
+
+#footer {
+  clear: both;
+  border: 1px solid black;
+}
