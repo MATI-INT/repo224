@@ -1,3 +1,14 @@
+textarea:active, textarea:focus, input[type='text']:active,
+input[type='text']:focus {
+  border: 1px solid red;
+  background-color: grey;
+}
+
+input[type='submit'] {
+  font-size: 20px;
+  background-color: red;
+}
+
 div {
   background-color: green;
   border: 2px solid red;
